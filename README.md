@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/RitikRajSONI/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RitikRajSONI/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RitikRajSONI/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
@@ -21,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RitikRajSONI/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
