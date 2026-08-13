@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RitikRajSONI/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RitikRajSONI/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
