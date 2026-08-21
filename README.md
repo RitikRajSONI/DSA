@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RitikRajSONI/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RitikRajSONI/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RitikRajSONI/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikRajSONI/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RitikRajSONI/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RitikRajSONI/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikRajSONI/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
