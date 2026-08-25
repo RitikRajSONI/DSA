@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RitikRajSONI/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RitikRajSONI/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/RitikRajSONI/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/RitikRajSONI/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Heap (Priority Queue)
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/RitikRajSONI/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RitikRajSONI/DSA/tree/master/2336-smallest-number-in-infinite-set) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/RitikRajSONI/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Simulation
 |  |
