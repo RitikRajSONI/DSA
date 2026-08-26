@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RitikRajSONI/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RitikRajSONI/DSA/tree/master/2336-smallest-number-in-infinite-set) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/RitikRajSONI/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RitikRajSONI/DSA/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
