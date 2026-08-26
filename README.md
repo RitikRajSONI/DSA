@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RitikRajSONI/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RitikRajSONI/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RitikRajSONI/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Bucket Sort
 |  |
