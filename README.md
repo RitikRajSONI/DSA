@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RitikRajSONI/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/RitikRajSONI/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RitikRajSONI/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RitikRajSONI/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RitikRajSONI/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/RitikRajSONI/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RitikRajSONI/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RitikRajSONI/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/RitikRajSONI/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/RitikRajSONI/DSA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/RitikRajSONI/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
