@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RitikRajSONI/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikRajSONI/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RitikRajSONI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/RitikRajSONI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
