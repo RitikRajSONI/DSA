@@ -105,14 +105,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/RitikRajSONI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
