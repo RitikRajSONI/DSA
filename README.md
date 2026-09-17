@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RitikRajSONI/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RitikRajSONI/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RitikRajSONI/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Ternary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/RitikRajSONI/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1405-longest-happy-string](https://github.com/RitikRajSONI/DSA/tree/master/1405-longest-happy-string) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RitikRajSONI/DSA/tree/master/2336-smallest-number-in-infinite-set) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RitikRajSONI/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
@@ -276,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RitikRajSONI/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/RitikRajSONI/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -288,4 +295,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
