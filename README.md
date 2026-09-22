@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/RitikRajSONI/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/RitikRajSONI/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RitikRajSONI/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikRajSONI/DSA/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RitikRajSONI/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/RitikRajSONI/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RitikRajSONI/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RitikRajSONI/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
