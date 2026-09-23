@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RitikRajSONI/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/RitikRajSONI/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Ternary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RitikRajSONI/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RitikRajSONI/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RitikRajSONI/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RitikRajSONI/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/RitikRajSONI/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
