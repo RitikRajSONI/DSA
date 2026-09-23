@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/RitikRajSONI/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RitikRajSONI/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikRajSONI/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -319,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
