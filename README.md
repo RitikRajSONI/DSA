@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/RitikRajSONI/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RitikRajSONI/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RitikRajSONI/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1405-longest-happy-string](https://github.com/RitikRajSONI/DSA/tree/master/1405-longest-happy-string) |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
