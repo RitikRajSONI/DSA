@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RitikRajSONI/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RitikRajSONI/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RitikRajSONI/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1405-longest-happy-string](https://github.com/RitikRajSONI/DSA/tree/master/1405-longest-happy-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RitikRajSONI/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3498-reverse-degree-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/3498-reverse-degree-of-a-string) |
