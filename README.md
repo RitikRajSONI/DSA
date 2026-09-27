@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1405-longest-happy-string](https://github.com/RitikRajSONI/DSA/tree/master/1405-longest-happy-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RitikRajSONI/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Prefix Sum
 |  |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
