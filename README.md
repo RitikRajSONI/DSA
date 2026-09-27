@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikRajSONI/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -327,15 +329,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
