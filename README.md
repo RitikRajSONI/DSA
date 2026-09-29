@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
@@ -360,4 +363,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
