@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikRajSONI/DSA/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RitikRajSONI/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikRajSONI/DSA/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/RitikRajSONI/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
