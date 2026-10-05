@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1405-longest-happy-string](https://github.com/RitikRajSONI/DSA/tree/master/1405-longest-happy-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Minimum Spanning Tree
