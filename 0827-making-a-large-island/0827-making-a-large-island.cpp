@@ -3,27 +3,25 @@ public:
     int n;
     int cu=2;
     vector<vector<int>> dirs={{0,-1},{-1,0},{0,1},{1,0}};
-    int DFS(vector<vector<int>>& grid, int x, int y,vector<vector<bool>>& visited){
-        if(x<0 || x>=n || y<0 || y>=n || visited[x][y] || grid[x][y]!=1) return 0;
-        visited[x][y]=true;
+    int DFS(vector<vector<int>>& grid, int x, int y){
+        if(x<0 || x>=n || y<0 || y>=n || grid[x][y]!=1) return 0;
         grid[x][y]=cu;
         int cnt=1;
         for(auto dir:dirs){
             int x_=x+dir[0];
             int y_=y+dir[1];
-            cnt+=DFS(grid,x_,y_,visited);
+            cnt+=DFS(grid,x_,y_);
         }
         return cnt;
     }
     int largestIsland(vector<vector<int>>& grid) {
         n=grid.size();
         unordered_map<int,int> mp;
-        vector<vector<bool>> visited(n,vector<bool>(n,false));
         int ans=0;
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
-                if(grid[i][j]==1 && !visited[i][j]){
-                    int sz = DFS(grid,i,j,visited);
+                if(grid[i][j]==1){
+                    int sz = DFS(grid,i,j);
                     mp[cu]=sz;
                     ans = max(ans, sz);
                     cu++;
