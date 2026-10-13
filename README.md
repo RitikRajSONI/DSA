@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RitikRajSONI/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RitikRajSONI/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RitikRajSONI/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RitikRajSONI/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RitikRajSONI/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
@@ -463,4 +466,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+## Eulerian Path
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
