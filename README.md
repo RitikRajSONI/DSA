@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RitikRajSONI/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RitikRajSONI/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
 |  |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RitikRajSONI/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Geometry
 |  |
 | ------- |
