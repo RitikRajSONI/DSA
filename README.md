@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/RitikRajSONI/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/RitikRajSONI/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/RitikRajSONI/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/RitikRajSONI/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Union-Find
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RitikRajSONI/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/RitikRajSONI/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
