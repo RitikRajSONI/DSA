@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RitikRajSONI/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikRajSONI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/RitikRajSONI/DSA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/RitikRajSONI/DSA/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
