@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/RitikRajSONI/DSA/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/RitikRajSONI/DSA/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/RitikRajSONI/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/RitikRajSONI/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/RitikRajSONI/DSA/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/RitikRajSONI/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RitikRajSONI/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
@@ -490,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/RitikRajSONI/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/RitikRajSONI/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
