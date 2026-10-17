@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RitikRajSONI/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/RitikRajSONI/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/RitikRajSONI/DSA/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/RitikRajSONI/DSA/tree/master/0841-keys-and-rooms) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RitikRajSONI/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/RitikRajSONI/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/RitikRajSONI/DSA/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RitikRajSONI/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/RitikRajSONI/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RitikRajSONI/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/RitikRajSONI/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/RitikRajSONI/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/RitikRajSONI/DSA/tree/master/0841-keys-and-rooms) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RitikRajSONI/DSA/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/RitikRajSONI/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/RitikRajSONI/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Graph Coloring
 |  |
@@ -509,4 +513,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/RitikRajSONI/DSA/tree/master/0113-path-sum-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/RitikRajSONI/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
