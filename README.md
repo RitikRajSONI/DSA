@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RitikRajSONI/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RitikRajSONI/DSA/tree/master/0509-fibonacci-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [3871-count-commas-in-range-ii](https://github.com/RitikRajSONI/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/RitikRajSONI/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RitikRajSONI/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
@@ -534,5 +536,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RitikRajSONI/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RitikRajSONI/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
