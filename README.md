@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RitikRajSONI/DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/RitikRajSONI/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RitikRajSONI/DSA/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/RitikRajSONI/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RitikRajSONI/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RitikRajSONI/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/RitikRajSONI/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/RitikRajSONI/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/RitikRajSONI/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/RitikRajSONI/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
