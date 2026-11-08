@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/RitikRajSONI/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RitikRajSONI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RitikRajSONI/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RitikRajSONI/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitikRajSONI/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/RitikRajSONI/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RitikRajSONI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RitikRajSONI/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/RitikRajSONI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitikRajSONI/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RitikRajSONI/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/RitikRajSONI/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RitikRajSONI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RitikRajSONI/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RitikRajSONI/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/RitikRajSONI/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RitikRajSONI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RitikRajSONI/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RitikRajSONI/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/RitikRajSONI/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RitikRajSONI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/RitikRajSONI/DSA/tree/master/1765-map-of-highest-peak) |
 ## Boyer–Moore Majority Vote Algorithm
