@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikRajSONI/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RitikRajSONI/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RitikRajSONI/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/RitikRajSONI/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RitikRajSONI/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RitikRajSONI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RitikRajSONI/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RitikRajSONI/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/RitikRajSONI/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
