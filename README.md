@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/RitikRajSONI/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/RitikRajSONI/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/RitikRajSONI/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RitikRajSONI/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RitikRajSONI/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/RitikRajSONI/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/RitikRajSONI/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RitikRajSONI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
