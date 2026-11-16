@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/RitikRajSONI/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RitikRajSONI/DSA/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/RitikRajSONI/DSA/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/RitikRajSONI/DSA/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0827-making-a-large-island](https://github.com/RitikRajSONI/DSA/tree/master/0827-making-a-large-island) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RitikRajSONI/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RitikRajSONI/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RitikRajSONI/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0740-delete-and-earn](https://github.com/RitikRajSONI/DSA/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RitikRajSONI/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitikRajSONI/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RitikRajSONI/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/RitikRajSONI/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/RitikRajSONI/DSA/tree/master/0740-delete-and-earn) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RitikRajSONI/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RitikRajSONI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
