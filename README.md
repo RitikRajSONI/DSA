@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/RitikRajSONI/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/RitikRajSONI/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RitikRajSONI/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RitikRajSONI/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikRajSONI/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/RitikRajSONI/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikRajSONI/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RitikRajSONI/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Ternary Search
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RitikRajSONI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RitikRajSONI/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RitikRajSONI/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/RitikRajSONI/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Kosaraju's Algorithm
@@ -616,4 +619,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RitikRajSONI/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RitikRajSONI/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
