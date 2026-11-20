@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/RitikRajSONI/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/RitikRajSONI/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RitikRajSONI/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RitikRajSONI/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/RitikRajSONI/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RitikRajSONI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RitikRajSONI/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/RitikRajSONI/DSA/tree/master/1048-longest-string-chain) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RitikRajSONI/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1405-longest-happy-string](https://github.com/RitikRajSONI/DSA/tree/master/1405-longest-happy-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RitikRajSONI/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/RitikRajSONI/DSA/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/RitikRajSONI/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RitikRajSONI/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -630,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RitikRajSONI/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
