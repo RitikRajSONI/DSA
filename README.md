@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RitikRajSONI/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/RitikRajSONI/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/RitikRajSONI/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RitikRajSONI/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RitikRajSONI/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajSONI/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/RitikRajSONI/DSA/tree/master/1834-single-threaded-cpu) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RitikRajSONI/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RitikRajSONI/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/RitikRajSONI/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RitikRajSONI/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RitikRajSONI/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RitikRajSONI/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RitikRajSONI/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/RitikRajSONI/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/RitikRajSONI/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RitikRajSONI/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RitikRajSONI/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
