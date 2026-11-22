@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/RitikRajSONI/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/RitikRajSONI/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RitikRajSONI/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1405-longest-happy-string](https://github.com/RitikRajSONI/DSA/tree/master/1405-longest-happy-string) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/RitikRajSONI/DSA/tree/master/0740-delete-and-earn) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1048-longest-string-chain](https://github.com/RitikRajSONI/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/RitikRajSONI/DSA/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RitikRajSONI/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/RitikRajSONI/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RitikRajSONI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -641,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RitikRajSONI/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RitikRajSONI/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
