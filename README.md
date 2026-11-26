@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/RitikRajSONI/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
+| [0647-palindromic-substrings](https://github.com/RitikRajSONI/DSA/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RitikRajSONI/DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RitikRajSONI/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/RitikRajSONI/DSA/tree/master/0647-palindromic-substrings) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RitikRajSONI/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1048-longest-string-chain](https://github.com/RitikRajSONI/DSA/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RitikRajSONI/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RitikRajSONI/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/RitikRajSONI/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RitikRajSONI/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/RitikRajSONI/DSA/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/RitikRajSONI/DSA/tree/master/0740-delete-and-earn) |
 | [0834-sum-of-distances-in-tree](https://github.com/RitikRajSONI/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1048-longest-string-chain](https://github.com/RitikRajSONI/DSA/tree/master/1048-longest-string-chain) |
