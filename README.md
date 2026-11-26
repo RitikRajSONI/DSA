@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/RitikRajSONI/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikRajSONI/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/RitikRajSONI/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/RitikRajSONI/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/RitikRajSONI/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RitikRajSONI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2101-detonate-the-maximum-bombs](https://github.com/RitikRajSONI/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [3360-stone-removal-game](https://github.com/RitikRajSONI/DSA/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RitikRajSONI/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RitikRajSONI/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RitikRajSONI/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
