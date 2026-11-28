@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/RitikRajSONI/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/RitikRajSONI/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/RitikRajSONI/DSA/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/RitikRajSONI/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/RitikRajSONI/DSA/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/RitikRajSONI/DSA/tree/master/0767-reorganize-string) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RitikRajSONI/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/RitikRajSONI/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/RitikRajSONI/DSA/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/RitikRajSONI/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RitikRajSONI/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RitikRajSONI/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RitikRajSONI/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/RitikRajSONI/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/RitikRajSONI/DSA/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/RitikRajSONI/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RitikRajSONI/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Recursion
